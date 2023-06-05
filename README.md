@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @GoodFace228
+- 👋 Hi, I’m @GoodFace
 - 👀 I’m interested in Kotlin, HTML, CSS
 - 🌱 I’m currently learning Kotlin
 
