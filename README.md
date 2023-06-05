@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GoodFace
-- 👀 I’m interested in Kotlin, HTML, CSS
-- 🌱 I’m currently learning Kotlin
+- 👀 I’m interested in Kotlin, C++, HTML, CSS and cryptocurrency
+- 🌱 I’m currently learning C++
 
 <!---
 GoodFace228/GoodFace228 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
